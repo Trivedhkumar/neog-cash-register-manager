@@ -1,0 +1,1 @@
+# neog-cash-register-manager
