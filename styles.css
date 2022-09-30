@@ -19,6 +19,13 @@ td {
   border-collapse: collapse;
   padding: 0.4rem;
 }
+footer {
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
 footer p {
   text-align: center;
   font-size: large;
